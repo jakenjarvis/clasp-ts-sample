@@ -18,7 +18,7 @@ https://script.google.com/d/1HHaZ8mlwZjJvFqnMMMqKKPRQd4_ZCoMUyqTqfba56VU4JYtyopQ
 
 # Logger.log
 
-[19-02-09 18:43:04:734 PST] loading AClass.ts
+    [19-02-09 18:43:04:734 PST] loading AClass.ts
 
 # Error
 
