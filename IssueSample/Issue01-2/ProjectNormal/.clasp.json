@@ -1,0 +1,7 @@
+{
+  "scriptId": "1L8zUT0UaQbhGU4mZg6eKyqYA4DvWupJaT1V24qCoSOpvLgyhUlOii1sn",
+  "projectId": "project-id-7537175052383091845",
+  "rootDir": "src",
+  "fileExtension": "ts",
+  "filePushOrder": ["src/AClass.ts", "src/BClass.ts", "src/code.ts"]
+}

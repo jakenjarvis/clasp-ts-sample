@@ -1,0 +1,21 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended", "tslint-config-airbnb", "tslint-config-prettier"],
+  "linterOptions": {
+    "exclude": ["node_modules/**/*", "transpiled/**/*.js"]
+  },
+  "jsRules": {},
+  "rules": {
+    "no-namespace": true,
+    "prettier": [
+      true,
+      {
+        "printWidth": 120,
+        "singleQuote": true,
+        "semi": true,
+        "trailingComma": "all"
+      }
+    ]
+  },
+  "rulesDirectory": ["tslint-plugin-prettier"]
+}
