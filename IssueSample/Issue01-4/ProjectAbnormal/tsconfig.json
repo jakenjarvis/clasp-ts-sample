@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "target": "es3",
+    "allowJs": false,
+    "strict": false,
+    "noUnusedParameters": true,
+    "skipLibCheck": true,
+    "rootDir": "./src",
+    "outDir": "./transpiled",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": false
+  },
+  "exclude": ["node_modules"]
+}
